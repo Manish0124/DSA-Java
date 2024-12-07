@@ -11,6 +11,7 @@ public class Swap {
        System.out.println(Arrays.toString(arr2));
     }
     
+    // checking 
 
     // swaping of the array
    static void reverseSwap(int[] arr){
