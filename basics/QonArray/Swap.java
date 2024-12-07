@@ -23,6 +23,7 @@ public class Swap {
         }
    }
    
+//    swap function
     
 
     static void swap(int[] arr , int  index1, int index2){
