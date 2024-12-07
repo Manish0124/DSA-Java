@@ -1,4 +1,4 @@
-package basics;
+package basics.TonArray;
 
 import java.util.ArrayList;
 import java.util.Scanner;
