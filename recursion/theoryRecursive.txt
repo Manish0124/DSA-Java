@@ -1,0 +1,31 @@
+ 
+ -> identify if you can break down it into smaller problem
+ 
+ -> write the recurence relation if needed
+
+ 
+ -> draw the recursive  tree
+
+ 
+ -> about the tree 
+
+   --> see the flow of function how they are getting in stack
+
+   --> identify and flows of left tree calls and right tree calls
+
+   --> draw the tree and pointing again and again using pen and paper
+
+   --> use the debugger to see the flow
+       
+   --> see how the values are returened at each step
+
+   -->  see where the function call will come out of 
+
+   --> see how the values and what types of values (int , string, etc)
+
+   --> see where the function will come out at the end , you will come out of the main function
+
+
+   ---> variable --> argument
+                 --> return type
+                 --> body of function
