@@ -1,0 +1,2 @@
+function that gives us the relationship about 
+how the time will grow as the input grow 
