@@ -8,7 +8,7 @@ public class Array {
             Scanner in = new Scanner(System.in);
             //  SYNTAX --> datatype[] variable_name = new datatype[size]; 
 
-              int [] rows = new int[5];
+              int[] rows = new int[5];
             //   System.out.println(rows[1]);
 
             //  int[] columns = {1, 2 ,3, 6, 7};

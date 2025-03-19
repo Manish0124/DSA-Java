@@ -49,7 +49,7 @@ public class EvenDigit {
         }
 
         int count = 0;
-        while ( num>10) {
+        while ( num>0) {
             count++;
             num/=10;
         }

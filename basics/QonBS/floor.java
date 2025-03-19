@@ -3,7 +3,7 @@ package basics.QonBS;
 public class floor {
     public static void main(String[] args) {
         int arr[]= {2,3 ,5 , 7, 9, 12};
-        int target = 1;
+        int target = 4;
         System.out.println(Floor(arr, target));
         
     }
