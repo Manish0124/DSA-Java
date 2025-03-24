@@ -11,7 +11,7 @@ public class InfiniteArray {
         // first find the range
         // first start with a box of size 2
         int start = 0;
-        int end = 1;
+        int end = arr.length -1;;
 
         // condition for the target to lie in the range
         while (target > arr[end]) {
